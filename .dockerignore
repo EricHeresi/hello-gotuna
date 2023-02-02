@@ -1,0 +1,7 @@
+*
+.*
+!*.go
+!go.*
+!examples/
+!watch.sh
+!test/
